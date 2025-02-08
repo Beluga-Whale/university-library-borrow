@@ -47,5 +47,5 @@ const BookCover = ({
     </div>
   );
 };
-// NOTE- 59:02
+
 export default BookCover;
